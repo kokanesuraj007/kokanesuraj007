@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Sanjay Kokane</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif" alt="Coding" width="300px" align="right" />
+<img src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif" alt="Coding" width="300px" align="center" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kokanesuraj007&label=Profile%20views&color=0e75b6&style=flat" alt="kokanesuraj007" /> </p>
 
